@@ -6,7 +6,7 @@ Hi! I'm Leo Scholl, a neuroscientist who likes to build things. Here's some of m
 
 [multisection-imager](https://github.com/leoscholl/multisection-imager) // automated fluorescent microscopy
 
-[Restoration of vision in rats with retinal degeneration](https://leoscholl.github.io/retinal%20degeneration%20slides.pdf) // Talk
+[Restoration of vision in rats with retinal degeneration](https://leoscholl.github.io/retinal%20transplant%20slides.pdf) // Talk
 
 [wallberry](https://github.com/leoscholl/wallberry) // weather station for your home!
 
