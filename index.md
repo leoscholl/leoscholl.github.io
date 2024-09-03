@@ -1,10 +1,16 @@
-Hi! I'm Leo Scholl, a neuroscientist who likes to build things. I'm currently a postdoctoral researcher in [Amy Orsborn's lab](http://faculty.washington.edu/aorsborn/) at the University of Washington. I'm interested in how the structure of networks in the brain influences function. 
+Hi! I'm Leo Scholl, a neuroscientist building brain-machine interfaces to study learning. I'm currently a postdoctoral researcher in [Amy Orsborn's lab](http://faculty.washington.edu/aorsborn/) at the University of Washington.
 
 [CV](https://leoscholl.github.io/lscholl_cv.pdf)
 
 [g-scholar](https://scholar.google.com/citations?user=uX-2MwgAAAAJ)
 
 My recent work:
+
+[aopy](https://analyze.readthedocs.io/en/latest/index.html) // Open-source neural data analysis repository
+
+[bmi3d](https://github.com/aolabNeuro/brain-python-interface) // Forked repository from the Carmena lab that I and others have been extending with more capabilities for eye-tracking, virtual reality, and accurate experiment timing.
+
+[Neural engineering seminar](https://neuraleng.github.io/seminar/) // Virtual seminar series I helped organize during 2020-2022 
 
 [Pulvinar contributions to visual cortical processing in the rat](https://leoscholl.github.io/scholl%20dissertation.pdf) // PhD Dissertation
 
