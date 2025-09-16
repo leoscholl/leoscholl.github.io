@@ -7,8 +7,6 @@ Currently, I’m a postdoctoral researcher in <a href="http://faculty.washington
 
 📄 <a href="lscholl_cv.pdf">CV</a> | 🎓 <a href="https://scholar.google.com/citations?user=uX-2MwgAAAAJ" target="_blank">Google Scholar</a>
 
----
-
 ## Selected Projects  
 
 ### Human & Animal Behavior Experiments
